@@ -1,1 +1,1 @@
-# CI-alzate-vallejo
+# CONTINUOUS INTEGRATION WORKSHOP 
